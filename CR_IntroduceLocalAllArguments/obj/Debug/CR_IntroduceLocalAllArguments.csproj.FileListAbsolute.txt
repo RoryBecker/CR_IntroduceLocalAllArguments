@@ -1,0 +1,11 @@
+C:\Users\Rory.Becker\Dropbox\DevExpress\DX\Plugins\Github\CR_IntroduceLocalAllArguments\CR_IntroduceLocalAllArguments\bin\Debug\CR_IntroduceLocalAllArguments.dll
+C:\Users\Rory.Becker\Dropbox\DevExpress\DX\Plugins\Github\CR_IntroduceLocalAllArguments\CR_IntroduceLocalAllArguments\bin\Debug\CR_IntroduceLocalAllArguments.pdb
+C:\Users\Rory.Becker\Dropbox\DevExpress\DX\Plugins\Github\CR_IntroduceLocalAllArguments\CR_IntroduceLocalAllArguments\bin\Debug\CR_IntroduceLocalAllArguments.vsix
+C:\Users\Rory.Becker\Dropbox\DevExpress\DX\Plugins\Github\CR_IntroduceLocalAllArguments\CR_IntroduceLocalAllArguments\bin\Debug\extension.vsixmanifest
+C:\Users\Rory.Becker\Dropbox\DevExpress\DX\Plugins\Github\CR_IntroduceLocalAllArguments\CR_IntroduceLocalAllArguments\obj\Debug\CR_IntroduceLocalAllArguments.dll
+C:\Users\Rory.Becker\Dropbox\DevExpress\DX\Plugins\Github\CR_IntroduceLocalAllArguments\CR_IntroduceLocalAllArguments\obj\Debug\CR_IntroduceLocalAllArguments.pdb
+C:\Users\Rory.Becker\Dropbox\DevExpress\DX\Plugins\Github\CR_IntroduceLocalAllArguments\CR_IntroduceLocalAllArguments\obj\Debug\extension.vsixmanifest
+C:\Users\Rory.Becker\Documents\DevExpress\IDE Tools\Community\Plugins\CR_IntroduceLocalAllArguments.dll
+C:\Users\Rory.Becker\Documents\DevExpress\IDE Tools\Community\Plugins\CR_IntroduceLocalAllArguments.pdb
+C:\Users\Rory.Becker\Documents\DevExpress\IDE Tools\Community\Plugins\CR_IntroduceLocalAllArguments.vsix
+C:\Users\Rory.Becker\Documents\DevExpress\IDE Tools\Community\Plugins\extension.vsixmanifest
